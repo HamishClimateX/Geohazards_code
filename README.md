@@ -1,3 +1,3 @@
-# POC_Raster_ML_code
+# POC_Geohazards_Code
 
 Code used for the proof of concept. 
